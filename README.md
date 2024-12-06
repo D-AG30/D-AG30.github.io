@@ -1,1 +1,1 @@
-D-AG30.github.io/test
+D-AG30.github.io
